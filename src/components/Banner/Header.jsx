@@ -11,13 +11,13 @@ const Header = () => {
             <h1>Welcome to My Personal Portfolio</h1>
         </Logo>
         <Nav bar={bar}>
-            <span><a href="#home">Home</a></span>
-            <span><a href="#service">Services</a></span>
-            <span><a href="#project">Projects</a></span>
-            <span><a href="#footer">Details</a></span>
+            <span><a   onClick={() =>  setBar(!bar)} href="#home">Home</a></span>
+            <span><a   onClick={() =>  setBar(!bar)} href="#service">Services</a></span>
+            <span><a   onClick={() =>  setBar(!bar)} href="#project">Projects</a></span>
+            <span><a   onClick={() =>  setBar(!bar)} href="#footer">Details</a></span>
         </Nav>
         <div
-        onClick={() => setBar(!bar)}
+        onClick={() =>  setBar(!bar)}
         className="bars">
             <div className="bar"></div>
         </div>
@@ -77,6 +77,9 @@ const Container = styled.div`
                     transition: all 400ms ease-in-out;
                 }
             }
+        }
+        span a::active{
+            
         }
     }
 `
