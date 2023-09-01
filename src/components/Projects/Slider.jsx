@@ -5,6 +5,13 @@ import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 import styled from 'styled-components';
 
 let data = [
+
+  {
+    img : "/pizza.png",
+    disc : "This is complete authentication and also it has authorized functionality pizza delivery app.This responsive web design.",
+    link : "https://effortless-semifreddo-349782.netlify.app/"
+},
+  
     {
         img : "/calculater.png",
         disc : "This is amazing calculater website",
