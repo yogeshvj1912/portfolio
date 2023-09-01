@@ -8,7 +8,7 @@ let data = [
 
   {
     img : "/pizza.png",
-    disc : "This is complete authentication and also it has authorized functionality pizza delivery app.This responsive web design.",
+    disc : "This is complete authentication and also it has authorized functionality pizza delivery app.This is responsive web design.",
     link : "https://effortless-semifreddo-349782.netlify.app/"
 },
   
