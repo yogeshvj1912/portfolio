@@ -8,29 +8,20 @@ let data = [
 
   {
     img : "/pizza.png",
-    disc : "This is complete authentication and also it has authorized functionality pizza delivery app.This is responsive web design.",
+    disc : "This is complete authentication and also it has authorized functionality pizza delivery app.This responsive web design.",
     link : "https://effortless-semifreddo-349782.netlify.app/"
 },
   
     {
-        img : "/calculater.png",
-        disc : "This is amazing calculater website",
-        link : "https://fabulous-gecko-f49bd7.netlify.app/"
+        img : "diary.png",
+        disc : "Developed a comprehensive digital diary manager app, allowing users to record daily activities, thoughts, and appointments in a user-friendly",
+        link : "https://fastidious-daifuku-107870.netlify.app/"
     },
+
     {
-        img : "thirukural.png",
-        disc : "This Websites shows you the Famous tamil literature line knowns as 'THIRUKKURAL' by selecting the number of thirukkural you want!",
-        link : "https://tangerine-narwhal-678194.netlify.app/"
-    },
-    {
-        img : "https://lh3.googleusercontent.com/vtcFBSB4_9Z38yMKQ4IC9iXTQCFyxk-1OHDUZVQF4QSOeNkZKEJMhEeIzfIpTt4jmP3s6CdEwTElQYA4deB38N-em6MXeekFnW1GRwl_bKYMcZI8sU6L786RNnPAvwKennDWqptifg=w2400",
-        disc : "This was the Exact Clone of Youtube with all the features that original Youtube have, I've done this with the help of Youtube API",
-        link : "https://sage-parfait-6c9188.netlify.app"
-    },
-    {
-        img : "/dog.png",
-        disc : "This was API shows the all dogs pictures",
-        link : "https://tiny-stroopwafel-803e0b.netlify.app"
+        img : "/password.png",
+        disc : "Designed and implemented a secure and user-friendly password reset flow, ensuring hassle-free account recovery for users via email verification and password updating.Developed a robust password reset mechanism, allowing users to reset their passwords securely, with email notifications and real-time password strength validation.",
+        link : "https://magnificent-sopapillas-535129.netlify.app/"
     },
     {
         img : "https://lh3.googleusercontent.com/2W40wwMniWgf6z2EzWEy_UsYDb5d2ebyKivGfy_qNf8Pc0z43Efa6JeeIiijdpaZBqbddXLI4hoOHuKqbvmx219Ls_OJ237qT8L2zspFEaOJvVAVQe4QC9Rum4a5Ggcu_qAQVHoiKg=w2400",
